@@ -1,3 +1,4 @@
 - Chapter 9, exercise 8
-- Chapters 13 until end of book
+- Finish Chapter 13
+- Chapters 14 until end of book
 - Chapters 1 - 5
