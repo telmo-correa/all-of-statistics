@@ -1,5 +1,3 @@
 - Do chapter 9, exercise 8
-- Review Chapter 15 exercise 2
-- Finish chapter 15
 - Chapters 16 until end of book
 - Chapters 1 - 5
