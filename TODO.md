@@ -1,3 +1,4 @@
 - Do chapter 9, exercise 8
-- Chapters 16 until end of book
+- Finish chapter 16
+- Chapters 17 until end of book
 - Chapters 1 - 5
