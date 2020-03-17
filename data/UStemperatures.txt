@@ -1,0 +1,61 @@
+city	lat	long	JanTF	JulyTF	RelHum	Rain
+Akron, OH	41.05	81.3	27	71	59	36
+Albany-Schenectady-Troy, NY	42.4	73.5	23	72	57	35
+Allentown, Bethlehem, PA-NJ	40.35	75.3	29	74	54	44
+Atlanta, GA	33.45	84.23	45	79	56	47
+Baltimore, MD	39.2	76.38	35	77	55	43
+Birmingham, AL	33.31	86.49	45	80	54	53
+Boston, MA	42.15	71.07	30	74	56	43
+Bridgeport-Milford, CT	41.12	73.12	30	73	56	45
+Buffalo, NY	42.54	78.51	24	70	61	36
+Canton, OH	40.5	81.25	27	72	59	36
+Chattanooga, TN-GA	35.01	85.15	42	79	56	52
+Chicago, IL	41.49	87.37	26	76	58	33
+Cincinnati, OH-KY-IN	39.08	84.3	34	77	57	40
+Cleveland, OH	41.3	81.42	28	71	60	35
+Columbus, OH	40	83	31	75	58	37
+Dallas, TX	32.45	96.45	46	85	54	35
+Dayton-Springfield, OH	39.54	84.15	30	75	58	36
+Denver, CO	39.44	104.59	30	73	38	15
+Detroit, MI	42.06	83.08	27	74	59	31
+Flint, MI	43	83.45	24	72	61	30
+Fort Worth, TX			45	85	53	31
+Grand Rapids, MI	43	85.45	24	72	61	31
+Greensboro-Winston-Salem-High Point, NC	36.04	79.45	40	77	53	42
+Hartford, CT	41.45	72.4	27	72	56	43
+Houston, TX	29.46	95.21	55	84	59	46
+Indianapolis, IN	39.45	86.08	29	75	60	39
+Kansas City, MO	39.05	94.35	31	81	55	35
+Lancaster, PA	40.05	76.2	32	74	54	43
+Los Angeles, Long Beach, CA	34	118.15	53	68	47	11
+Louisville, KY-IN	38.15	85.45	35	71	57	30
+Memphis, TN-AR-MS	35.07	90.03	42	82	59	50
+Miami-Hialeah, FL	25.45	80.11	67	82	60	60
+Milwaukee, WI	43.03	87.55	20	69	64	30
+Minneapolis-St. Paul, MN-WI	44.58	93.15	12	73	58	25
+Nashville, TN	36.1	86.48	40	80	56	45
+New Haven-Meriden, CT	41.2	72.55	30	72	58	46
+New Orleans, LA	30	90.05	54	81	62	54
+New York, NY	40.4	73.58	33	77	58	42
+Philadelphia, PA-NJ	40	75.13	32	76	54	42
+Pittsburgh, PA	40.26	80.01	29	72	56	36
+Portland, OR	45.31	122.41	38	67	73	37
+Providence, RI	41.5	71.23	29	72	56	42
+Reading, PA	40.2	75.55	33	77	54	41
+Richmond-Petersburg, VA	37.35	77.3	39	78	53	44
+Rochester, NY	43.15	77.35	25	72	60	32
+St. Louis, MO-IL	38.39	90.15	32	79	57	34
+San Diego, CA	32.43	117.1	55	70	61	10
+San Francisco, CA	37.45	122.26	48	63	71	18
+San Jose, CA	37.2	121.54	49	68	71	13
+Seattle, WA	47.36	122.2	40	64	72	35
+Springfield, MA	42.05	72.35	28	74	56	45
+Syracuse, NY	43.05	76.1	24	72	61	38
+Toledo, OH	41.4	83.35	26	73	59	31
+Utica-Rome, NY	43.05	75.1	23	71	60	40
+Washington, DC-MD-VA	38.5	77	37	78	52	42
+Wichita, KS	37.42	97.21	32	81	54	28
+Wilmington, DE-NJ-MD	39.45	75.33	33	76	56	65
+Worcester, MA	42.16	71.49	24	70	56	65
+York, PA	40	76.4	33	76	54	62
+Youngstown-Warren, OH	41.05	80.4	28	72	58	38
