@@ -1,5 +1,4 @@
 - Do chapter 9, exercise 8
 - Do chapter 16, exercise 4
-- Finish chapter 22
 - Chapters 23 until end of book
 - Chapters 1 - 5
