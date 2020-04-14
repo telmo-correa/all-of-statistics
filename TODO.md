@@ -1,4 +1,3 @@
 - Do chapter 9, exercise 8
 - Do chapter 16, exercise 4
-- Finish chapter 25
 - Chapters 2 - 5
