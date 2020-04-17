@@ -1,3 +1,3 @@
 - Do chapter 9, exercise 8
 - Do chapter 16, exercise 4
-- Chapters 3, 4, 5
+- Chapters 4, 5
