@@ -1,2 +1,2 @@
-- Do chapter 9, exercise 8
-- Do chapter 16, exercise 4
+- Chapter 9, exercise 8
+- Chapter 16, exercise 4
